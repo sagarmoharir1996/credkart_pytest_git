@@ -58,3 +58,13 @@
 2025-01-29 12:34:30,564 - INFO - Test_Userlogin - test_userlogin_001 - 67 - Login pass
 2025-01-29 12:34:31,810 - INFO - Test_Userlogin - test_userlogin_001 - 80 - user logout
 2025-01-29 12:34:31,810 - INFO - Test_Userlogin - test_userlogin_001 - 81 - test complete
+2025-01-29 13:07:51,428 - INFO - Test_Userlogin - test_verify_url - 30 - testing started
+2025-01-29 13:07:51,475 - INFO - Test_Userlogin - test_verify_url - 33 - Checking url
+2025-01-29 13:07:51,475 - INFO - Test_Userlogin - test_verify_url - 36 - Url correct
+2025-01-29 13:07:59,043 - INFO - Test_Userlogin - test_userlogin_001 - 54 - user login testing start
+2025-01-29 13:07:59,462 - INFO - Test_Userlogin - test_userlogin_001 - 57 - Enter username
+2025-01-29 13:07:59,507 - INFO - Test_Userlogin - test_userlogin_001 - 59 - enter password
+2025-01-29 13:07:59,555 - INFO - Test_Userlogin - test_userlogin_001 - 61 - click on login
+2025-01-29 13:08:04,612 - INFO - Test_Userlogin - test_userlogin_001 - 67 - Login pass
+2025-01-29 13:08:05,733 - INFO - Test_Userlogin - test_userlogin_001 - 80 - user logout
+2025-01-29 13:08:05,733 - INFO - Test_Userlogin - test_userlogin_001 - 81 - test complete
