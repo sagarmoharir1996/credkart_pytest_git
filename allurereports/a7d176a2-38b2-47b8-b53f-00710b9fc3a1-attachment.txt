@@ -1,7 +1,0 @@
-[32mINFO    [0m Test_Userlogin:test_userlogin.py:54 user login testing start
-[32mINFO    [0m Test_Userlogin:test_userlogin.py:57 Enter username
-[32mINFO    [0m Test_Userlogin:test_userlogin.py:59 enter password
-[32mINFO    [0m Test_Userlogin:test_userlogin.py:61 click on login
-[32mINFO    [0m Test_Userlogin:test_userlogin.py:67 Login pass
-[32mINFO    [0m Test_Userlogin:test_userlogin.py:80 user logout
-[32mINFO    [0m Test_Userlogin:test_userlogin.py:81 test complete

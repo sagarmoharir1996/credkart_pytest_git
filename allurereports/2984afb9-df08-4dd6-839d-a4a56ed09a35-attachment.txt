@@ -1,3 +1,0 @@
-[32mINFO    [0m Test_Userlogin:test_userlogin.py:30 testing started
-[32mINFO    [0m Test_Userlogin:test_userlogin.py:33 Checking url
-[32mINFO    [0m Test_Userlogin:test_userlogin.py:36 Url correct
