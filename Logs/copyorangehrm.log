@@ -1,0 +1,30 @@
+2025-01-18 11:49:09,134 - INFO - Test_Userlogin - test_verify_url - 30 - testing started
+2025-01-18 11:49:09,143 - INFO - Test_Userlogin - test_verify_url - 33 - Checking url
+2025-01-18 11:49:09,143 - INFO - Test_Userlogin - test_verify_url - 36 - Url correct
+2025-01-18 11:49:16,057 - INFO - Test_Userlogin - test_userlogin_001 - 54 - user login testing start
+2025-01-18 11:49:16,460 - INFO - Test_Userlogin - test_userlogin_001 - 57 - Enter username
+2025-01-18 11:49:16,511 - INFO - Test_Userlogin - test_userlogin_001 - 59 - enter password
+2025-01-18 11:49:17,625 - INFO - Test_Userlogin - test_userlogin_001 - 61 - click on login
+2025-01-18 11:49:22,681 - INFO - Test_Userlogin - test_userlogin_001 - 67 - Login pass
+2025-01-18 11:49:23,975 - INFO - Test_Userlogin - test_userlogin_001 - 80 - user logout
+2025-01-18 11:49:23,975 - INFO - Test_Userlogin - test_userlogin_001 - 81 - test complete
+2025-01-18 11:50:18,749 - INFO - Test_Userlogin - test_verify_url - 30 - testing started
+2025-01-18 11:50:18,753 - INFO - Test_Userlogin - test_verify_url - 33 - Checking url
+2025-01-18 11:50:18,753 - INFO - Test_Userlogin - test_verify_url - 36 - Url correct
+2025-01-18 11:50:25,940 - INFO - Test_Userlogin - test_userlogin_001 - 54 - user login testing start
+2025-01-18 11:50:26,346 - INFO - Test_Userlogin - test_userlogin_001 - 57 - Enter username
+2025-01-18 11:50:26,395 - INFO - Test_Userlogin - test_userlogin_001 - 59 - enter password
+2025-01-18 11:50:26,451 - INFO - Test_Userlogin - test_userlogin_001 - 61 - click on login
+2025-01-18 11:50:31,524 - INFO - Test_Userlogin - test_userlogin_001 - 67 - Login pass
+2025-01-18 11:50:32,743 - INFO - Test_Userlogin - test_userlogin_001 - 80 - user logout
+2025-01-18 11:50:32,743 - INFO - Test_Userlogin - test_userlogin_001 - 81 - test complete
+2025-01-18 11:55:08,550 - INFO - Test_Userlogin - test_verify_url - 30 - testing started
+2025-01-18 11:55:08,557 - INFO - Test_Userlogin - test_verify_url - 33 - Checking url
+2025-01-18 11:55:08,558 - INFO - Test_Userlogin - test_verify_url - 36 - Url correct
+2025-01-18 11:55:15,872 - INFO - Test_Userlogin - test_userlogin_001 - 54 - user login testing start
+2025-01-18 11:55:16,291 - INFO - Test_Userlogin - test_userlogin_001 - 57 - Enter username
+2025-01-18 11:55:16,345 - INFO - Test_Userlogin - test_userlogin_001 - 59 - enter password
+2025-01-18 11:55:17,430 - INFO - Test_Userlogin - test_userlogin_001 - 61 - click on login
+2025-01-18 11:55:22,484 - INFO - Test_Userlogin - test_userlogin_001 - 67 - Login pass
+2025-01-18 11:55:23,740 - INFO - Test_Userlogin - test_userlogin_001 - 80 - user logout
+2025-01-18 11:55:23,740 - INFO - Test_Userlogin - test_userlogin_001 - 81 - test complete
